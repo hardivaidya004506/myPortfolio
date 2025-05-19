@@ -14,6 +14,15 @@ This is a simple yet elegant **Profile Page App** designed using **Flutter**, sh
 
 ## 📷 Screenshots
 
+### 🧑‍💼 Profile Page
+![Profile Page](assets/First.png)
+
+### 🎯 Skills Page
+![Profile Page](assets/Second.png)
+
+### 📨 Contact Me Form
+![Contact Form](assets/Third.png)
+
 
 
 ## 🔧 Technologies Used
