@@ -25,7 +25,7 @@ This is a simple yet elegant **Profile Page App** designed using **Flutter**, sh
 ![Profile Page](assets/First.png)
 
 ### 🎯 Skills Page
-![Profile Page](assets/Second.png)
+![Profile Page](assets/Fourth.png)
 
 ### 📨 Contact Me Form
 ![Contact Form](assets/Third.png)
