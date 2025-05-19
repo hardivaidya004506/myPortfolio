@@ -14,7 +14,7 @@ This is a simple yet elegant **Profile Page App** designed using **Flutter**, sh
 
 ## 📷 Screenshots
 
-*(You can add screenshots of the profile page and contact form here)*
+
 
 ## 🔧 Technologies Used
 
@@ -25,12 +25,8 @@ This is a simple yet elegant **Profile Page App** designed using **Flutter**, sh
 
 ## 📬 Contact Me
 
-The **Contact Me** form allows visitors to leave their name, email, and message. All entries are stored securely in **Firebase Firestore** and can be retrieved later for follow-up.
-
-## 🤝 Connect with Me
-
-- [GitHub]()
-- [LinkedIn]()
+- [GitHub](https://github.com/hardivaidya004506)
+- [LinkedIn](https://www.linkedin.com/in/hardi-jignesh-vaidya-118605340/)
 
 ---
 
