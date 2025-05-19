@@ -12,16 +12,26 @@ This is a simple yet elegant **Profile Page App** designed using **Flutter**, sh
 - 🔒 Secure data storage of messages from visitors
 - 📦 Clean, well-structured, and modular codebase
 
-## 📷 Screenshots
-
-
-
 ## 🔧 Technologies Used
 
 - **Flutter** – for building the cross-platform app
 - **Firebase Firestore** – to store user contact information securely
 - **Firebase Core & SDKs** – for backend connectivity
 - **Font Awesome / Icons** – to add GitHub and LinkedIn links
+
+  ## 📷 Screenshots
+
+### 🧑‍💼 Profile Page
+![Profile Page](assets/First.png)
+
+### 🎯 Skills Page
+![Profile Page](assets/Second.png)
+
+### 📨 Contact Me Form
+![Contact Form](assets/Third.png)
+
+
+
 
 ## 📬 Contact Me
 
